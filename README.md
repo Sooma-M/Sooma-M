@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I’m Somaya Mohammed 👋</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/somaya-mohammed-3449b121a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
     <a href="mailto:sooma3mohammed@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="gmail"/></a>
+    <a href="https://www.linkedin.com/in/somaya-mohammed-3449b121a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
     <a href="https://codeforces.com/profile/Sooma_M"><img src="https://img.shields.io/badge/codeforces-%23D14836.svg?&style=flat&logo=codeforces&logoColor=white" alt="codeforces"/></a>
 </p>
   
