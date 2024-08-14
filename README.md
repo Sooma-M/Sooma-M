@@ -7,16 +7,18 @@
   
 <hr>
 
-- ## 🎓 A Computer Science graduate from Cairo University.
-<p align="left">
-<a href="https://fcai.cu.edu.eg/" target="blank"><img align="center" src="https://cu.edu.eg/ar/images/fac/1.jpg" alt="FCAI" height="50" width="50" /></a>
-<a href="https://en.wikipedia.org/wiki/Cairo_University" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Cairo_University_Crest.png" alt="Cairo University" height="50" width="50" /></a>
-</p>
+<h4 align="left">
+Hello, I’m Somaya Mohammed, a recent Computer Science graduate from Cairo University. I have a keen interest in software development and machine learning, demonstrated through my diverse projects, such as the creation of an advanced journaling platform and a comprehensive payment system.
+<br><br>
+My technical skills span multiple programming languages, including Java, C++, and Python, as well as web development technologies like HTML, CSS, and JavaScript. I am well-versed in design patterns, OOP, and agile methodologies, with a strong foundation in data structures, algorithms, and machine learning techniques.
+<br><br>
+I thrive in dynamic environments that challenge me to grow, and I am eager to collaborate on innovative projects that make a meaningful impact. I am excited to connect with like-minded professionals and explore new opportunities for collaboration.
+</h4>
 
-- 💻 I’m passionate about software development, machine learning, and leveraging technology for impactful projects.</h3>
-- 🌍 I’m open to collaborations and eager to contribute to innovative projects that challenge me and foster growth.</h3>
+<hr>
 
-- 🔧 Languages and Tools:</h3>
+### 🔧 Languages and Tools:
 <p align="left">
-ss
+<img align="center" src="https://cu.edu.eg/ar/images/fac/1.jpg" alt="FCAI" height="50" width="50" />
+<img align="center" src="https://cu.edu.eg/ar/images/fac/1.jpg" alt="FCAI" height="50" width="50" />
 </p>
