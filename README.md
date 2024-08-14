@@ -7,7 +7,7 @@
   
 <hr>
 
-- 🎓 A Computer Science graduate from Cairo University.
+- ## 🎓 A Computer Science graduate from Cairo University.
 <p align="left">
 <a href="https://fcai.cu.edu.eg/" target="blank"><img align="center" src="https://cu.edu.eg/ar/images/fac/1.jpg" alt="FCAI" height="50" width="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Cairo_University" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Cairo_University_Crest.png" alt="Cairo University" height="50" width="50" /></a>
