@@ -27,9 +27,7 @@ I thrive in dynamic environments that challenge me to grow, and I am eager to co
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" height="50" width="50"/>  
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" height="50" width="50" />  
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" height="50" width="50" />  
-</p>
 
-<p align="left">
 <img align="center" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" height="50" width="50" />
 <img align="center" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="microsoft-sql-server" height="50" width="50" />  
     
@@ -37,9 +35,10 @@ I thrive in dynamic environments that challenge me to grow, and I am eager to co
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="Tensorflow"  height="50" width="50" />  
 <img align="center" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="50" width="50"/>  
 <img align="center" src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" alt="huggingface" height="50" width="50" />  
-</p>
 
-<p align="left">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe_Photoshop" height="50" width="50" />
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" height="50" width="50" />  
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sooma-M&show_icons=true&locale=en&layout=compact" alt="Sooma-M" /></p>
+
