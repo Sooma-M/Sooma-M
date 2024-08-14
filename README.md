@@ -1,6 +1,11 @@
-<h1 align="left"> Hello! 👋 I’m Somaya Mohammed </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sooma-M&label=Profile%20views&color=0e75b6&style=flat" alt="Sooma-M" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sooma-M" alt="Sooma-M"/></a> </p>
+<h1 align="center">Hello! I’m Somaya Mohammed 👋</h1>
+<p align="center">
+    <a href="https://www.linkedin.com/in/somaya-mohammed-3449b121a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+    <a href="mailto:sooma3mohammed@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" alt="gmail"/></a>
+    <a href="https://codeforces.com/profile/Sooma_M"><img src="https://img.shields.io/badge/codeforces-%23D14836.svg?&style=flat&logo=codeforces&logoColor=white" alt="codeforces"/></a>
+</p>
+  
+<hr>
 
 <h3 align="left">🎓 A Computer Science graduate from Cairo University.</h3>
 <p align="left">
@@ -11,7 +16,7 @@
 <h3 align="left">💻 I’m passionate about software development, machine learning, and leveraging technology for impactful projects.</h3>
 <h3 align="left">🌍 I’m open to collaborations and eager to contribute to innovative projects that challenge me and foster growth.</h3>
 
-<h3 align="left">🔧 Skills:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p align="left">
 ss
 </p>
