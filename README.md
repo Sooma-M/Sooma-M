@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sooma-M/Sooma-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello! 👋 I’m Somaya Mohammed
+
+- 🎓 Computer Science graduate from Cairo University
+- 💻 Passionate about software development, open-source contributions, and problem-solving
+- 🌟 I enjoy working on projects that challenge me to learn and grow
+- 🌍 I’m always looking to collaborate on exciting new projects!
+- 🔧 Skills:
