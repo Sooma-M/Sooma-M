@@ -7,16 +7,16 @@
   
 <hr>
 
-<h3 align="left">🎓 A Computer Science graduate from Cairo University.</h3>
+- 🎓 A Computer Science graduate from Cairo University.
 <p align="left">
 <a href="https://fcai.cu.edu.eg/" target="blank"><img align="center" src="https://cu.edu.eg/ar/images/fac/1.jpg" alt="FCAI" height="50" width="50" /></a>
 <a href="https://en.wikipedia.org/wiki/Cairo_University" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Cairo_University_Crest.png" alt="Cairo University" height="50" width="50" /></a>
 </p>
 
-<h3 align="left">💻 I’m passionate about software development, machine learning, and leveraging technology for impactful projects.</h3>
-<h3 align="left">🌍 I’m open to collaborations and eager to contribute to innovative projects that challenge me and foster growth.</h3>
+- 💻 I’m passionate about software development, machine learning, and leveraging technology for impactful projects.</h3>
+- 🌍 I’m open to collaborations and eager to contribute to innovative projects that challenge me and foster growth.</h3>
 
-<h3 align="left">🔧 Languages and Tools:</h3>
+- 🔧 Languages and Tools:</h3>
 <p align="left">
 ss
 </p>
